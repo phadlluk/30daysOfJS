@@ -39,3 +39,6 @@ let myAge = 30;
 let yourAge = 40;
 console.log(myAge);
 console.log(yourAge);
+
+let fullName = "Fadipe" + " " + "Lukman";
+console.log(fullName);
