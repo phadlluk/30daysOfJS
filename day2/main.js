@@ -45,3 +45,6 @@ console.log(theStatement);
 let num = "10";
 let numInt = parseInt(num);
 console.log(numInt);
+// Check if 'on' is found in both python and jargon
+let sentence2 = "python and jargon";
+console.log(sentence2.includes("on"));
